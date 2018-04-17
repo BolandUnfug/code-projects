@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\game110am\source\repos\pink eye\pink eye\source.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\game110am\source\repos\pink eye\pink eye\source.cpp(57): error C3867: 'std::basic_ofstream<char,std::char_traits<char>>::close': non-standard syntax; use '&' to create a pointer to member
+c:\users\game110am\source\repos\pink eye\pink eye\source.cpp(58): error C3867: 'std::basic_ofstream<char,std::char_traits<char>>::close': non-standard syntax; use '&' to create a pointer to member

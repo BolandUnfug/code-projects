@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\game110am\source\repos\breakout\breakout\source.cpp(1139): warning C4715: 'brick::collision': not all control paths return a value
+  Breakout.vcxproj -> C:\Users\game110am\source\repos\Breakout\Debug\Breakout.exe

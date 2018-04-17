@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\game110am\desktop\code projects\pong!\pong!\source.cpp(189): warning C4552: '+': operator has no effect; expected operator with side-effect
+c:\users\game110am\desktop\code projects\pong!\pong!\source.cpp(202): warning C4552: '+': operator has no effect; expected operator with side-effect
+  Pong!.vcxproj -> C:\Users\game110am\Desktop\code projects\Pong!\Debug\Pong!.exe
